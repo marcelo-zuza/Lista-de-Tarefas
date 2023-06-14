@@ -1,0 +1,71 @@
+body{
+    background-color: white;
+}
+
+
+
+#titulo{
+    margin-top: 10%;
+    color: black;
+    text-align: center;
+    font-size: smaller;
+
+}
+
+#botao{
+    margin-top: 3%;
+    color: white;
+    display: grid;
+    
+}
+
+#instrucao{
+    color: white;
+    margin-left: 5%;
+    margin-bottom: 6;
+}
+
+#lista {
+    text-align: left;
+}
+
+#subtitle{
+    color: aliceblue; 
+    font-weight: bolder;
+    text-align: right;
+    
+}
+
+#lisubtitle{
+    text-align: right;
+    margin-right: 6%;
+}
+
+#footer {
+    background-color: black;
+    margin-top: 25%; 
+    block-size: 200px; 
+    border: 10cm; 
+    margin-bottom: 10; 
+    padding-top: 5%; 
+    padding-bottom: 5%;
+    font-size: smaller;
+}
+
+#navbarCollapse{
+    text-align: right;
+    margin-left: 52%;
+}
+
+.card-body{
+    padding: 3%;
+    background-color:black;
+    border-radius: 3%;
+}
+
+.form-control{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
